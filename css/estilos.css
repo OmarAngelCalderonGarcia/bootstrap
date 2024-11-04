@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1,
+h2 {
+    color: #ff5733;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: rgba(39, 39, 39, 0.9);
+    color: white;
+    padding: 15px;
+}
+
+.redes img {
+    margin: 0 10px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
